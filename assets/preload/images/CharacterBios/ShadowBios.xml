@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ShadowBios.png">
+<SubTexture name="idle0000" x="1230" y="0" width="308" height="674" frameX="-3" frameY="-6" frameWidth="315" frameHeight="681" />
+<SubTexture name="idle0001" x="306" y="680" width="308" height="671" frameX="-4" frameY="-9" frameWidth="315" frameHeight="681" />
+<SubTexture name="idle0002" x="921" y="680" width="310" height="669" frameX="-4" frameY="-11" frameWidth="315" frameHeight="681" />
+<SubTexture name="idle0003" x="614" y="680" width="307" height="671" frameX="-4" frameY="-9" frameWidth="315" frameHeight="681" />
+<SubTexture name="idle0004" x="0" y="680" width="306" height="674" frameX="-3" frameY="-6" frameWidth="315" frameHeight="681" />
+<SubTexture name="idle0005" x="617" y="0" width="306" height="676" frameX="-3" frameY="-4" frameWidth="315" frameHeight="681" />
+<SubTexture name="idle0006" x="923" y="0" width="307" height="676" frameX="-2" frameY="-4" frameWidth="315" frameHeight="681" />
+<SubTexture name="idle0007" x="309" y="0" width="308" height="679" frameX="-1" frameY="-1" frameWidth="315" frameHeight="681" />
+<SubTexture name="idle0008" x="0" y="0" width="309" height="680" frameX="0" frameY="0" frameWidth="315" frameHeight="681" />
+<SubTexture name="idle0009" x="0" y="0" width="309" height="680" frameX="0" frameY="0" frameWidth="315" frameHeight="681" />
+<SubTexture name="idle0010" x="0" y="0" width="309" height="680" frameX="0" frameY="0" frameWidth="315" frameHeight="681" />
+<SubTexture name="idle0011" x="0" y="0" width="309" height="680" frameX="0" frameY="0" frameWidth="315" frameHeight="681" />
+<SubTexture name="idle0012" x="0" y="0" width="309" height="680" frameX="0" frameY="0" frameWidth="315" frameHeight="681" />
+<SubTexture name="idle0013" x="0" y="0" width="309" height="680" frameX="0" frameY="0" frameWidth="315" frameHeight="681" />
+</TextureAtlas>

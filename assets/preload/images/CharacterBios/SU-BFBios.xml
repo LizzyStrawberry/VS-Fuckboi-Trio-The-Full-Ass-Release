@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SU-BFBios.png">
+<SubTexture name="SU-BFBios BF Angy0000" x="1640" y="0" width="328" height="447" frameX="0" frameY="-12" frameWidth="328" frameHeight="459" />
+<SubTexture name="SU-BFBios BF Angy0001" x="1640" y="0" width="328" height="447" frameX="0" frameY="-12" frameWidth="328" frameHeight="459" />
+<SubTexture name="SU-BFBios BF Angy0002" x="979" y="916" width="318" height="449" frameX="-5" frameY="-10" frameWidth="328" frameHeight="459" />
+<SubTexture name="SU-BFBios BF Angy0003" x="979" y="916" width="318" height="449" frameX="-5" frameY="-10" frameWidth="328" frameHeight="459" />
+<SubTexture name="SU-BFBios BF Angy0004" x="1312" y="455" width="323" height="452" frameX="-2" frameY="-7" frameWidth="328" frameHeight="459" />
+<SubTexture name="SU-BFBios BF Angy0005" x="1312" y="455" width="323" height="452" frameX="-2" frameY="-7" frameWidth="328" frameHeight="459" />
+<SubTexture name="SU-BFBios BF Angy0006" x="0" y="916" width="328" height="452" frameX="0" frameY="-6" frameWidth="328" frameHeight="459" />
+<SubTexture name="SU-BFBios BF Angy0007" x="0" y="916" width="328" height="452" frameX="0" frameY="-6" frameWidth="328" frameHeight="459" />
+<SubTexture name="SU-BFBios BF Angy0008" x="984" y="457" width="328" height="455" frameX="0" frameY="-3" frameWidth="328" frameHeight="459" />
+<SubTexture name="SU-BFBios BF Angy0009" x="656" y="458" width="328" height="457" frameX="0" frameY="-1" frameWidth="328" frameHeight="459" />
+<SubTexture name="SU-BFBios BF Angy0010" x="0" y="0" width="328" height="458" frameX="0" frameY="0" frameWidth="328" frameHeight="459" />
+<SubTexture name="SU-BFBios BF Angy0011" x="328" y="0" width="328" height="458" frameX="0" frameY="0" frameWidth="328" frameHeight="459" />
+<SubTexture name="SU-BFBios BF Angy0012" x="656" y="0" width="328" height="458" frameX="0" frameY="0" frameWidth="328" frameHeight="459" />
+<SubTexture name="SU-BFBios BF Angy0013" x="0" y="458" width="328" height="458" frameX="0" frameY="0" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0000" x="1640" y="447" width="328" height="447" frameX="0" frameY="-12" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0001" x="1640" y="447" width="328" height="447" frameX="0" frameY="-12" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0002" x="1297" y="916" width="318" height="449" frameX="-5" frameY="-10" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0003" x="1297" y="916" width="318" height="449" frameX="-5" frameY="-10" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0004" x="328" y="916" width="323" height="452" frameX="-2" frameY="-7" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0005" x="328" y="916" width="323" height="452" frameX="-2" frameY="-7" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0006" x="651" y="916" width="328" height="452" frameX="0" frameY="-6" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0007" x="651" y="916" width="328" height="452" frameX="0" frameY="-6" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0008" x="1312" y="0" width="328" height="455" frameX="0" frameY="-3" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0009" x="984" y="0" width="328" height="457" frameX="0" frameY="-1" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0010" x="328" y="458" width="328" height="458" frameX="0" frameY="0" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0011" x="328" y="458" width="328" height="458" frameX="0" frameY="0" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0012" x="328" y="458" width="328" height="458" frameX="0" frameY="0" frameWidth="328" frameHeight="459" />
+<SubTexture name="BF idle dance0013" x="328" y="458" width="328" height="458" frameX="0" frameY="0" frameWidth="328" frameHeight="459" />
+</TextureAtlas>

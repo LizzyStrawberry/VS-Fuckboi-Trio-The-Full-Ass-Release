@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FiendBios.png">
+<SubTexture name="idle0000" x="0" y="0" width="379" height="717" frameX="-6" frameY="0" frameWidth="389" frameHeight="717" />
+<SubTexture name="idle0001" x="379" y="0" width="379" height="717" frameX="-6" frameY="0" frameWidth="389" frameHeight="717" />
+<SubTexture name="idle0002" x="758" y="0" width="384" height="717" frameX="0" frameY="0" frameWidth="389" frameHeight="717" />
+<SubTexture name="idle0003" x="1142" y="0" width="384" height="717" frameX="0" frameY="0" frameWidth="389" frameHeight="717" />
+<SubTexture name="idle0004" x="0" y="717" width="377" height="717" frameX="-8" frameY="0" frameWidth="389" frameHeight="717" />
+<SubTexture name="idle0005" x="377" y="717" width="377" height="717" frameX="-8" frameY="0" frameWidth="389" frameHeight="717" />
+<SubTexture name="idle0006" x="754" y="717" width="369" height="716" frameX="-17" frameY="-1" frameWidth="389" frameHeight="717" />
+<SubTexture name="idle0007" x="1123" y="717" width="370" height="716" frameX="-17" frameY="-1" frameWidth="389" frameHeight="717" />
+<SubTexture name="idle0008" x="1526" y="0" width="362" height="716" frameX="-26" frameY="-1" frameWidth="389" frameHeight="717" />
+<SubTexture name="idle0009" x="1526" y="0" width="362" height="716" frameX="-26" frameY="-1" frameWidth="389" frameHeight="717" />
+<SubTexture name="idle0010" x="1526" y="0" width="362" height="716" frameX="-26" frameY="-1" frameWidth="389" frameHeight="717" />
+<SubTexture name="idle0011" x="1526" y="0" width="362" height="716" frameX="-26" frameY="-1" frameWidth="389" frameHeight="717" />
+</TextureAtlas>
