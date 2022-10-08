@@ -1,6 +1,24 @@
 # VS Fuckboi Trio - The Full Ass Release
 This took a whole damn year, but man, the team and I are proud of the results.
 I'm making the source code public, so you guys can see how a lot of changes as regards to the menus, the Character Info Screen etc etc.. where created.
+
+This Version includes: 
+ - Redesigned Menus! [Story mode, Freeplay Categories ETC ETC]
+
+ - 3 Main week songs! [Instead of 1 lmao]
+
+ - Over 6+ Covers! [And a few hidden ones, accesible via typing codes!]
+
+ - NEW Character Bios/Info Screen! [Find out about every character shown in the mod!]
+
+ - New Mechanics!
+
+ - Story Mode Lore! [Complete with an animatic, and dialogue cutscenes, depending on the difficulty you are playing!] 
+
+- Brand New Freeplay Exclusive 'LIMIT' Mode! - Freeplay Character + GF Seletion Screen!
+
+- New Art, New Backgrounds, New designs, and More!
+
 Make sure you play the mod, if you like!
 Mod Download -> [https://gamebanana.com/mods/357587]
 
