@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="changingMenu-2.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="freeplaybg0000" x="0" y="0" width="755" height="453" frameX="-6" frameY="-23" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0001" x="755" y="0" width="755" height="448" frameX="-6" frameY="-31" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0002" x="1510" y="0" width="752" height="465" frameX="-9" frameY="-19" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0003" x="2262" y="0" width="746" height="478" frameX="-15" frameY="-10" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0004" x="3008" y="0" width="751" height="487" frameX="-10" frameY="-4" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0005" x="0" y="487" width="758" height="491" frameX="-3" frameY="-1" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0006" x="758" y="487" width="761" height="489" frameX="0" frameY="-3" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0007" x="1519" y="487" width="760" height="484" frameX="-1" frameY="-8" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0008" x="2279" y="487" width="755" height="476" frameX="-6" frameY="-16" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0009" x="3034" y="487" width="748" height="482" frameX="-13" frameY="-10" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0010" x="0" y="978" width="736" height="483" frameX="-25" frameY="-6" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0011" x="736" y="978" width="732" height="480" frameX="-29" frameY="-6" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0012" x="1468" y="978" width="744" height="473" frameX="-17" frameY="-10" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0013" x="2212" y="978" width="753" height="464" frameX="-8" frameY="-17" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0014" x="2965" y="978" width="758" height="470" frameX="-3" frameY="-8" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0015" x="0" y="1461" width="760" height="475" frameX="-1" frameY="-2" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0016" x="760" y="1461" width="758" height="476" frameX="-3" frameY="0" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0017" x="1518" y="1461" width="752" height="474" frameX="-9" frameY="-2" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0018" x="2270" y="1461" width="746" height="469" frameX="-15" frameY="-7" frameWidth="761" frameHeight="492"/>
+	<SubTexture name="freeplaybg0019" x="3016" y="1461" width="752" height="460" frameX="-9" frameY="-16" frameWidth="761" frameHeight="492"/>
+</TextureAtlas>

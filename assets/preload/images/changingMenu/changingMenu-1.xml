@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="changingMenu-1.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="storybg0000" x="0" y="0" width="2014" height="458" frameX="0" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0001" x="2014" y="0" width="2014" height="461" frameX="-33" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0002" x="4028" y="0" width="2014" height="464" frameX="-66" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0003" x="6042" y="0" width="2014" height="467" frameX="-99" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0004" x="0" y="467" width="2013" height="469" frameX="-132" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0005" x="2013" y="467" width="2013" height="470" frameX="-165" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0006" x="4026" y="467" width="2013" height="471" frameX="-198" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0007" x="6039" y="467" width="2013" height="471" frameX="-231" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0008" x="0" y="938" width="2013" height="471" frameX="-264" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0009" x="2013" y="938" width="2013" height="471" frameX="-297" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0010" x="4026" y="938" width="2013" height="468" frameX="-330" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0011" x="6039" y="938" width="2014" height="465" frameX="-362" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0012" x="0" y="1409" width="2014" height="462" frameX="-395" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0013" x="2014" y="1409" width="2014" height="460" frameX="-428" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0014" x="4028" y="1409" width="2014" height="458" frameX="-461" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0015" x="6042" y="1409" width="2014" height="457" frameX="-494" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0016" x="0" y="1871" width="2014" height="457" frameX="-527" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0017" x="2014" y="1871" width="2014" height="457" frameX="-560" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0018" x="4028" y="1871" width="2014" height="457" frameX="-593" frameY="0" frameWidth="2640" frameHeight="471"/>
+	<SubTexture name="storybg0019" x="6042" y="1871" width="2014" height="457" frameX="-626" frameY="0" frameWidth="2640" frameHeight="471"/>
+</TextureAtlas>

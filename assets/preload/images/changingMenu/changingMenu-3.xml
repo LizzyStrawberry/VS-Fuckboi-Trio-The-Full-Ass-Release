@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="changingMenu-3.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="creditsbg0000" x="0" y="0" width="2014" height="472" frameX="0" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0001" x="2014" y="0" width="2013" height="466" frameX="-32" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0002" x="4027" y="0" width="2013" height="479" frameX="-64" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0003" x="6040" y="0" width="2014" height="488" frameX="-95" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0004" x="0" y="488" width="2014" height="493" frameX="-127" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0005" x="2014" y="488" width="2013" height="492" frameX="-159" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0006" x="4027" y="488" width="2013" height="487" frameX="-191" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0007" x="6040" y="488" width="2014" height="479" frameX="-222" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0008" x="0" y="981" width="2014" height="487" frameX="-254" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0009" x="2014" y="981" width="2013" height="489" frameX="-286" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0010" x="4027" y="981" width="2014" height="487" frameX="-317" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0011" x="6041" y="981" width="2014" height="483" frameX="-349" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0012" x="0" y="1470" width="2014" height="479" frameX="-381" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0013" x="2014" y="1470" width="2013" height="487" frameX="-413" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0014" x="4027" y="1470" width="2014" height="492" frameX="-444" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0015" x="6041" y="1470" width="2014" height="494" frameX="-476" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0016" x="0" y="1964" width="2014" height="494" frameX="-508" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0017" x="2014" y="1964" width="2013" height="490" frameX="-540" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0018" x="4027" y="1964" width="2014" height="484" frameX="-571" frameY="0" frameWidth="2617" frameHeight="494"/>
+	<SubTexture name="creditsbg0019" x="6041" y="1964" width="2014" height="475" frameX="-603" frameY="0" frameWidth="2617" frameHeight="494"/>
+</TextureAtlas>
